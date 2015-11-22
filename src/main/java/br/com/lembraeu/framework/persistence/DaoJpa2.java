@@ -1,4 +1,4 @@
-package br.com.dedoduro.framework.persistence;
+package br.com.lembraeu.framework.persistence;
 
 import java.lang.reflect.Method;
 import java.util.ArrayList;

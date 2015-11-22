@@ -1,6 +1,6 @@
-package br.com.dedoduro.framework.business;
+package br.com.lembraeu.framework.business;
 
-import br.com.dedoduro.framework.persistence.DomainObject;
+import br.com.lembraeu.framework.persistence.DomainObject;
 import java.util.List;
 import java.util.UUID;
 

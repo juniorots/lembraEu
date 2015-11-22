@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.dedoduro.framework.persistence;
+package br.com.lembraeu.framework.persistence;
 
 import org.joda.time.LocalDateTime;
 
@@ -11,9 +11,9 @@ import org.joda.time.LocalDateTime;
  *
  * @author Rafael Quintino
  */
-public interface IHaveCreationDateTime {
+public interface IHaveLastUpdate {
 
-    void setCreationDateTime(LocalDateTime localDateTime);
+    void setLastUpdate(LocalDateTime localDateTime);
 
-    LocalDateTime getCreationDateTime();
+    LocalDateTime getLastUpdate();
 }

@@ -1,7 +1,7 @@
-package br.com.dedoduro.framework.business;
+package br.com.lembraeu.framework.business;
 
-import br.com.dedoduro.framework.persistence.DataAccessObject;
-import br.com.dedoduro.framework.persistence.DomainObject;
+import br.com.lembraeu.framework.persistence.DataAccessObject;
+import br.com.lembraeu.framework.persistence.DomainObject;
 
 /**
  *
